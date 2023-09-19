@@ -1,0 +1,20 @@
+#head{
+    width: 176px;
+}
+
+#img{
+    width: 100px;
+    height: auto;
+}
+
+.img{
+    background-color: chocolate;
+}
+
+.img2{
+    background-color: chocolate;
+    height: 5px;
+}
+.fondos{
+    background-color: brown;
+}
